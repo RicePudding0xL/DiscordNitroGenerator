@@ -1,4 +1,5 @@
 # DiscordNitroGenerator
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRicePudding0xL%2FDiscordNitroGenerator&count_bg=%236EEE0E&title_bg=%23D10F0F&icon=mediafire.svg&icon_color=%23C9D0EC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🔥 Generate Discord Nitro Codes for Free ! 🔥
 
