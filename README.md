@@ -11,6 +11,6 @@ How to use:
 3. Enter the amount of Nitro Codes to Generate
 4. Press ENTER and the X number of Nitro Codes Will be Generated
 5. You can find these codes in the same directory as the program
-6. Enjoy!!
+6. Enjoy!
 
 ![image](https://user-images.githubusercontent.com/92940759/138319054-cefcbca2-f6a3-4ea3-851c-1c60e2c066f3.png)
