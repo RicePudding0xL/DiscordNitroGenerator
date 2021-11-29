@@ -13,4 +13,5 @@ How to use:
 5. You can find these codes in the same directory as the program
 6. Enjoy!
 
+EASY WAY TO GENERATE NITRO CODES
 ![image](https://user-images.githubusercontent.com/92940759/138319054-cefcbca2-f6a3-4ea3-851c-1c60e2c066f3.png)
