@@ -36,6 +36,6 @@ def main():
 try:
     main()
 except Exception as e:
-    print("If you're facing any issue with .py file, try the .exe file !"
+    print("If you're facing any issue with .py file, try the .exe file !")
     print(e)
     pass    
